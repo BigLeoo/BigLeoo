@@ -34,7 +34,7 @@
 
 #### Studying in this moment:
 
-![Supabase]https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### Databases:
 
