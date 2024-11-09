@@ -1,10 +1,6 @@
 
 <p align="center">I have previously worked in the engineering field, where I enhanced my knowledge in logic, automation, and management. I then transitioned my career to software development, working as a full-stack developer. For over a year, I have been involved in scalable projects.</p>&nbsp;
 
- 
- &nbsp;
- &nbsp;
-
 
 ## Contacts:
 
